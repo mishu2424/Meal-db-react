@@ -1,0 +1,10 @@
+.header-design {
+  background-color: black;
+  line-height: 40px;
+}
+
+.header-design a {
+  text-decoration: none;
+  color: bisque;
+  margin: 10px;
+}

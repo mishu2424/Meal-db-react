@@ -1,0 +1,22 @@
+.menu-design {
+  margin: 3%;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid rgba(207, 200, 200, 0.534);
+}
+
+.menu-img img {
+  width: 150px;
+}
+
+.details-design {
+  margin-left: 2%;
+  margin-bottom: 2%;
+}
+
+.button-design {
+  background-color: goldenrod;
+  border: none;
+  width: 120px;
+  height: 30px;
+}

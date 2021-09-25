@@ -1,0 +1,18 @@
+.Shop-design {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  /* border: 1px solid black; */
+}
+.menu-container {
+  margin-left: 20%;
+}
+.cart-container {
+}
+
+.input-field {
+  background-color: black;
+  text-align: center;
+}
+.input-field input {
+  width: 75%;
+}
